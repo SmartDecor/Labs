@@ -4,10 +4,11 @@ Group members : Banafsheh Rahnama, Leo Tuppurainen, Al-Hafeez Jamil
 
 
 
-#### A)
-1. (http://www.nrcs.usda.gov/Internet/FSE_DOCUMENTS/nrcs143_013173.pdf)
+### A)
+#### 1. 
+(http://www.nrcs.usda.gov/Internet/FSE_DOCUMENTS/nrcs143_013173.pdf)
 
-2.
+#### 2.
 ##### (Introduction)
 * "... a data system to organize, document, manipulate and compile water, 
 soil, management, and economic data for assessment of conservation practices."
@@ -46,7 +47,7 @@ data."
 * Yes.
 
 
-#### B)
+### B)
 
 * Yes.
 * No.
